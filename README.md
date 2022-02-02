@@ -1,4 +1,4 @@
-# project_1_python_jupyter
+# project_1_python_jupyter_analytics
 
 *Проект по аналитике данных.*
 
